@@ -27,6 +27,7 @@ else
 {
 Console.WriteLine("DOCUMENTO O CODIGO INCORRETO");
 }
+break;
 case 2:
 Bandera = false;
 break;
@@ -34,6 +35,8 @@ default:
 Console.WriteLine("\nIngrese una opcion valida\n");
 break; }
 }
-} }
 }
+}}
+
+
 
